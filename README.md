@@ -35,6 +35,9 @@ Build out python project scaffold:
     git add *
     git commit -m "adding structure"
 
+4. to see what are the packages installed in your env
+    pip freeze | wc -l
+
 
 
 ### AWS CloudShell
